@@ -1,0 +1,12 @@
+.slider .myrange {
+    border-radius: 1rem;
+}
+
+.slider .myrange::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 24px;
+    height: 24px;
+    background-image: url("../../assets/emojis/happy.png");
+    cursor: pointer;
+}
